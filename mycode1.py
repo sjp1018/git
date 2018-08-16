@@ -3,8 +3,8 @@
 
 # In[14]:
 
-name = "something"
-name = "YAY"
+
+name = "suji"
 
 
 # In[15]:
