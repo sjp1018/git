@@ -4,7 +4,7 @@
 # In[14]:
 
 name = "something"
-name = "Su Ji"
+name = "YAY"
 
 
 # In[15]:
