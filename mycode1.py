@@ -3,8 +3,8 @@
 
 # In[14]:
 
-
-name = "suji"
+name = "something"
+name = "Su Ji"
 
 
 # In[15]:
